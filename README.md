@@ -1,7 +1,3 @@
-<img src="https://github.com/ricardoltt/perfil/blob/main/img/foto-perfilgithub.jpg" min-width="400px" max-width="300px" width="300px" border-radius="50%" align="right" alt="programming">
-
-<br>
-
 # Olá!
 
 <p align="left">
