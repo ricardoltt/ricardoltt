@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋, Meu nome é Ricardo.</h1>
+<h1 align="center">Olá! 👋 Eu sou o Ricardo.</h1>
 <h3 align="center">Tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUC-PR. Apaixonado por tecnologia e seu poder de inclusão. Estudando para me tornar um desenvolvedor júnior!</h3>
 
 - 📫 How to reach me **ricardo.ltemoteo@gmail.com**
