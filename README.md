@@ -5,7 +5,7 @@ Meu nome é Ricardo, tenho 23 anos e sou estudante de Análise e Desenvolvimento
 Apaixonado por tecnologia e seu poder de inclusão. Estudando para me tornar um desenvolvedor júnior! <br>
 </p>
 
-<h2>Linguagens mais utilizadas: <br>
+<h2>Linguagens mais utilizadas: <br><br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoltt&layout=compact)](https://github.com/ricardoltt/github-readme-stats)
 <br>
