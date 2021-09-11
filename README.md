@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋
-<h3 align="center">Tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUC-PR. Apaixonado por tecnologia e seu poder de inclusão. Estudando para me tornar um desenvolvedor júnior!</h3>
+<h3 align="center">Sou apaixonado por tecnologia e seu poder de inclusão. Amo desenvolver, trabalhar em time e poder influenciar as pessoas de alguma forma.</h3>
 
 - 📫 How to reach me **ricardo.ltemoteo@gmail.com**
 
